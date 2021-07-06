@@ -1,2 +1,5 @@
-streamlit==0.84.0
-pandas==1.2.4
+numpy
+seaborn
+pandas
+plotly
+streamlit
